@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
-### Hi there 👋
 I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for automation <br/> <br/>
 [![linkedin badge](https://img.shields.io/badge/linkedin-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam1410)
 [![medium badge](https://img.shields.io/badge/medium-shivam1410-%230177B5?style=flat&logo=medium)](https://medium.com/@shivam1410)
