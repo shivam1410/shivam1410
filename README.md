@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for automation <br/> <br/>
-[![dev.to badge](https://img.shields.io/badge/linkedin-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam1410)
+[![linkedin badge](https://img.shields.io/badge/linkedin-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam1410)
+[![medium badge](https://img.shields.io/badge/medium-shivam1410-%230177B5?style=flat&logo=medium)](https://medium.com/@shivam1410)
 [![twitter badge](https://img.shields.io/badge/instagram-@shivam1410-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sshi_va_m)
 ![](https://komarev.com/ghpvc/?username=shivam1410&color=brightgreen&style=flat)
 
