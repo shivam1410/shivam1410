@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="300">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
 ### Hi there 👋
 I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for automation <br/> <br/>
