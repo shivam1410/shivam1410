@@ -6,11 +6,11 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for aut
 [![twitter badge](https://img.shields.io/badge/Instagram-@shhi_va_m-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shhi_va_m)
 ![](https://komarev.com/ghpvc/?username=shivam1410&color=brightgreen&style=flat)
 
-- ⚡️ Technologies I work with: C/c++, BASH, Python, Web API, JavaScript, TypeScript, Angular, CSS, HTML, Bootstrap, Ionic and more...
+- ⚡️ Technologies I work with: C/c++, BASH, Python, Web API, JavaScript, TypeScript, Angular, Ionic, CSS, HTML, Bootstrap and more...
 - 👨‍💻 All of my projects are available  [here](https://github.com/shivam1410?tab=repositories)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1410&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1410&hide=css,html&theme=radical)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&show_icons=true)
 
