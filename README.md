@@ -10,9 +10,9 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for aut
 - 👨‍💻 All of my projects are available  [here](https://github.com/shivam1410?tab=repositories)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1410&hide=css,html&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1410&hide=css,html&hide_border=true)
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&show_icons=true&hide_border=true)
 
 <!--
 **shivam1410/shivam1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
