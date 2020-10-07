@@ -4,7 +4,7 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for aut
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam1410)
 [![medium badge](https://img.shields.io/badge/Medium-shivam1410-%230177B5?style=flat&logo=medium)](https://medium.com/@shivam1410)
 [![Instagram badge](https://img.shields.io/badge/Instagram-@shhi_va_m-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/shhi_va_m)
-![](https://komarev.com/ghpvc/?username=shivam1410&color=brightgreen&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=shivam1410&color=brightgreen&style=flat)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam1410.visitor-badge)
 
 - ⚡️ Technologies I work with: C/c++, BASH, Python, Web API, JavaScript, TypeScript, Angular, Ionic, CSS, HTML, Bootstrap and more...
