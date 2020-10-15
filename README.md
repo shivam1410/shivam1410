@@ -1,13 +1,13 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
-I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts for automation <br/> <br/>
+I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts. <br/> <br/>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivam1410)
 [![medium badge](https://img.shields.io/badge/Medium-shivam1410-%230177B5?style=flat&logo=medium)](https://medium.com/@shivam1410)
 [![Instagram badge](https://img.shields.io/badge/Instagram-@shhi_va_m-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/shhi_va_m)
 ![visitors](https://komarev.com/ghpvc/?username=shivam1410&style=flat)
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam1410.visitor-badge)-->
 
-- ⚡️ Technologies I work with: C/c++, BASH, Python, Web API, JavaScript, TypeScript, Angular, Ionic, CSS, HTML, Bootstrap and more...
+- ⚡️ Technologies I work with: C/C++, BASH, Python, Web API, JavaScript, TypeScript, Angular, Ionic, CSS, HTML, Bootstrap and more...
 - 👨‍💻 All of my projects are available  [here](https://github.com/shivam1410?tab=repositories)
 
 ### My GitHub Top Languages 
